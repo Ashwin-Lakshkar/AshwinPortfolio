@@ -55,7 +55,7 @@ ul.menu {
 }
 /*Banner Start From Here*/
 .Banner_Image {
-    background-image: url(Images/Banner3.png);
+    background-image: url(picture/Banner3.png);
     background-size: cover;
     background-attachment: fixed;
     padding-top: 30px;
