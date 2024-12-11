@@ -281,6 +281,9 @@ span.Span_Content {
     height: auto;
     transform: translate(20px, 0px);
 }
+.Course_content p {
+    padding: 15px;
+}
 span.span_timeline_content_heading {
     display: block;
     font-size: 20px;
